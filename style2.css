@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tab11 {
+    border: 1px dashed;
+    border: 2px outset;
+    margin: 40px;
+    padding: 20px;
+    background-color: lightpink;
+}
+
+.tab22 {
+    border: 5px outset;
+    margin: 200px;
+    padding: 100px;
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: lightpink;
+}
+
+.tab33 {
+    border: 8px outset;
+    background-color: lightpink;
+    border-radius: 40px;
+    margin: 40px;
+    padding: 150px;
+    width: px;
+}
